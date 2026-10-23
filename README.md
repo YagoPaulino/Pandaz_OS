@@ -1,62 +1,71 @@
- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:141114,50:7A1028,100:D91E40&text=PANDA'Z&fontColor=EEEAEA&fontSize=68&fontAlignY=42&desc=ORGANIZE%20SEU%20MUNDO%20DIGITAL&descAlignY=65&descSize=14&animation=fadeIn" width="100%" alt="Pandaz — Organize seu mundo digital" />
 
-  <br />
+<div align="center">
 
-  <p>
-    <strong>Seu espaço. Suas referências. Tudo organizado.</strong>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:171213,50:3D3837,100:A11A17&text=PANDAZ%20OS&fontColor=D2CEC7&fontSize=64&fontAlignY=40&desc=ORGANIZE%20SEU%20MUNDO%20DIGITAL&descAlignY=65&descSize=14&animation=fadeIn" width="100%" alt="Pandaz OS — Organize seu mundo digital" />
 
-  <p>
-    Uma experiência digital para reunir links, coleções e conteúdos importantes em um único lugar.
-  </p>
+<br />
 
-  <br />
+<p>
+  <strong>Seu espaço. Suas referências. Tudo organizado.</strong>
+</p>
 
-  <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-D91E40?style=for-the-badge&labelColor=141114" alt="Status: em desenvolvimento" />
-  <img src="https://img.shields.io/badge/REACT-INTERFACE-7A1028?style=for-the-badge&logo=react&logoColor=EEEAEA" alt="React" />
-  <img src="https://img.shields.io/badge/LICENÇA-A%20DEFINIR-362417?style=for-the-badge" alt="Licença a definir" />
+<p>
+  Uma experiência digital para reunir links, coleções e conteúdos importantes em um único lugar.
+</p>
 
-  <br /><br />
+<br />
 
-  [VISÃO GERAL](#-visão-geral) · [RECURSOS](#-recursos) · [TECNOLOGIAS](#-tecnologias) · [INSTALAÇÃO](#-instalação)
+<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-A11A17?style=for-the-badge&labelColor=171213" alt="Status: em desenvolvimento" />
+<img src="https://img.shields.io/badge/REACT-INTERFACE-3D3837?style=for-the-badge&logo=react&logoColor=D2CEC7&labelColor=171213" alt="React" />
+<img src="https://img.shields.io/badge/LICENÇA-A%20DEFINIR-D2CEC7?style=for-the-badge&labelColor=171213" alt="Licença a definir" />
+
+<br /><br />
+
+<a href="#visão-geral">VISÃO GERAL</a> ·
+<a href="#recursos">RECURSOS</a> ·
+<a href="#tecnologias">TECNOLOGIAS</a> ·
+<a href="#identidade-visual">IDENTIDADE VISUAL</a> ·
+<a href="#instalação">INSTALAÇÃO</a>
+
 </div>
 
 <br />
 
 ---
 
-## <img src="https://img.shields.io/badge/01-D91E40?style=flat-square" /> Visão geral
+## <img src="https://img.shields.io/badge/01-A11A17?style=flat-square" /> Visão geral
 
-O **Panda'z** nasce com uma proposta simples: tornar a organização digital menos complicada.
+O **Pandaz OS** nasce com uma proposta simples: tornar a organização digital menos complicada.
 
 Links importantes, referências e conteúdos que costumam ficar espalhados por diferentes plataformas passam a ter um espaço centralizado, organizado de acordo com as necessidades de cada pessoa.
 
-A aplicação combina uma identidade visual escura, contrastes marcantes e uma interface projetada para equilibrar **estética, clareza e praticidade**.
+A aplicação combina uma identidade visual marcante, contrastes equilibrados e uma interface projetada para unir **estética, clareza e praticidade**.
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>01</h3>
-        <strong>Centralização</strong><br />
-        <sub>Seus links em um só lugar.</sub>
-      </td>
-      <td align="center" width="33%">
-        <h3>02</h3>
-        <strong>Organização</strong><br />
-        <sub>Conteúdos separados por coleções.</sub>
-      </td>
-      <td align="center" width="33%">
-        <h3>03</h3>
-        <strong>Acesso rápido</strong><br />
-        <sub>Encontre o que procura com facilidade.</sub>
-      </td>
-    </tr>
-  </table>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>01</h3>
+      <strong>Centralização</strong><br />
+      <sub>Seus links em um só lugar.</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>02</h3>
+      <strong>Organização</strong><br />
+      <sub>Conteúdos separados por coleções.</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>03</h3>
+      <strong>Acesso rápido</strong><br />
+      <sub>Encontre o que procura com facilidade.</sub>
+    </td>
+  </tr>
+</table>
+
 </div>
 
-## <img src="https://img.shields.io/badge/02-D91E40?style=flat-square" /> Recursos
+## <img src="https://img.shields.io/badge/02-A11A17?style=flat-square" /> Recursos
 
 | Recurso | Descrição |
 |:--|:--|
@@ -68,49 +77,89 @@ A aplicação combina uma identidade visual escura, contrastes marcantes e uma i
 | **Interface responsiva** | Experiência adaptável a diferentes telas. |
 | **Animações** | Transições sutis para uma navegação fluida. |
 
-> [!NOTE]
-> O Panda'z está em desenvolvimento. A autenticação real, a persistência dos dados e a integração com banco de dados ainda não foram implementadas.
+> [!IMPORTANT]
+> O Pandaz OS está em desenvolvimento. A autenticação real, a persistência dos dados e a integração com banco de dados serão implementadas nas próximas etapas.
 
-## <img src="https://img.shields.io/badge/03-D91E40?style=flat-square" /> Tecnologias
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-141114?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-141114?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-141114?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-141114?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
-  <img src="https://img.shields.io/badge/React_Router-141114?style=for-the-badge&logo=reactrouter&logoColor=F44250" alt="React Router" />
-  <img src="https://img.shields.io/badge/Framer_Motion-141114?style=for-the-badge&logo=framer&logoColor=BB4BFF" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Lucide_React-141114?style=for-the-badge&logo=lucide&logoColor=EEEAEA" alt="Lucide React" />
-</div>
-
-## <img src="https://img.shields.io/badge/04-D91E40?style=flat-square" /> Identidade visual
+## <img src="https://img.shields.io/badge/03-A11A17?style=flat-square" /> Tecnologias
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://placehold.co/100x60/141114/EEEAEA?text=%23141114" alt="Preto profundo" /><br />
-        <sub>Preto profundo</sub>
-      </td>
-      <td align="center">
-        <img src="https://placehold.co/100x60/7A1028/EEEAEA?text=%237A1028" alt="Vinho" /><br />
-        <sub>Vinho</sub>
-      </td>
-      <td align="center">
-        <img src="https://placehold.co/100x60/D91E40/FFFFFF?text=%23D91E40" alt="Vermelho" /><br />
-        <sub>Vermelho</sub>
-      </td>
-      <td align="center">
-        <img src="https://placehold.co/100x60/FF8A1F/141114?text=%23FF8A1F" alt="Laranja" /><br />
-        <sub>Laranja</sub>
-      </td>
-    </tr>
-  </table>
+
+<img src="https://img.shields.io/badge/React-171213?style=for-the-badge&logo=react&logoColor=D2CEC7" alt="React" />
+<img src="https://img.shields.io/badge/JavaScript-171213?style=for-the-badge&logo=javascript&logoColor=D2CEC7" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-171213?style=for-the-badge&logo=tailwindcss&logoColor=D2CEC7" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Vite-171213?style=for-the-badge&logo=vite&logoColor=D2CEC7" alt="Vite" />
+<img src="https://img.shields.io/badge/React_Router-171213?style=for-the-badge&logo=reactrouter&logoColor=D2CEC7" alt="React Router" />
+<img src="https://img.shields.io/badge/Framer_Motion-171213?style=for-the-badge&logo=framer&logoColor=D2CEC7" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/Lucide_React-171213?style=for-the-badge&logo=lucide&logoColor=D2CEC7" alt="Lucide React" />
+
 </div>
 
-A direção visual utiliza fundos escuros, tons quentes e pontos de destaque em vermelho e laranja para criar uma interface marcante sem comprometer a legibilidade.
+## <img src="https://img.shields.io/badge/04-A11A17?style=flat-square" /> Identidade visual
 
-## <img src="https://img.shields.io/badge/05-D91E40?style=flat-square" /> Instalação
+A identidade do Pandaz OS é construída em torno de uma paleta escura e sóbria, com detalhes em vermelho profundo e superfícies claras. O resultado busca transmitir personalidade sem comprometer a legibilidade.
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://placehold.co/140x80/171213/D2CEC7?text=171213" alt="Kokushoku Black" />
+      <br />
+      <strong>Kokushoku Black</strong>
+      <br />
+      <code>#171213</code>
+    </td>
+    <td align="center">
+      <img src="https://placehold.co/140x80/3D3837/D2CEC7?text=3D3837" alt="Eclipse" />
+      <br />
+      <strong>Eclipse</strong>
+      <br />
+      <code>#3D3837</code>
+    </td>
+    <td align="center">
+      <img src="https://placehold.co/140x80/242323/D2CEC7?text=242323" alt="Young Night" />
+      <br />
+      <strong>Young Night</strong>
+      <br />
+      <code>#242323</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://placehold.co/140x80/A11A17/FFFFFF?text=A11A17" alt="Mechrite Red" />
+      <br />
+      <strong>Mechrite Red</strong>
+      <br />
+      <code>#A11A17</code>
+    </td>
+    <td align="center">
+      <img src="https://placehold.co/140x80/D2CEC7/171213?text=D2CEC7" alt="Ravine" />
+      <br />
+      <strong>Ravine</strong>
+      <br />
+      <code>#D2CEC7</code>
+    </td>
+    <td align="center">
+      <img src="https://placehold.co/140x80/171213/D2CEC7?text=PANDAZ" alt="Identidade Pandaz OS" />
+      <br />
+      <strong>Identidade Pandaz OS</strong>
+      <br />
+      <sub>Contraste e personalidade</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+| Aplicação | Cor recomendada |
+|:--|:--|
+| Fundo principal | `#171213` |
+| Superfícies e cards | `#242323` |
+| Bordas e elementos secundários | `#3D3837` |
+| Destaques e ações principais | `#A11A17` |
+| Textos claros e superfícies alternativas | `#D2CEC7` |
+
+## <img src="https://img.shields.io/badge/05-A11A17?style=flat-square" /> Instalação
 
 **Pré-requisitos:** Node.js e npm.
 
@@ -123,11 +172,12 @@ npm run dev
 
 Após iniciar o servidor, acesse o endereço local apresentado pelo Vite no terminal.
 
-## <img src="https://img.shields.io/badge/06-D91E40?style=flat-square" /> Estrutura do projeto
+## <img src="https://img.shields.io/badge/06-A11A17?style=flat-square" /> Estrutura do projeto
 
 ```text
 Pandaz_OS/
 ├── public/
+│   └── logosPz/
 ├── src/
 │   ├── assets/
 │   ├── components/
@@ -149,13 +199,17 @@ Pandaz_OS/
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:141114,50:7A1028,100:D91E40&section=footer" width="100%" alt="" />
 
-  <strong>PANDAZ</strong>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:171213,50:3D3837,100:A11A17&section=footer" width="100%" alt="" />
 
-  <sub>Menos tempo procurando. Mais tempo fazendo.</sub>
+<br />
 
-  <br /><br />
+<strong>PANDAZ OS</strong>
 
-  <a href="https://github.com/YagoPaulino">Yago Paulino · GitHub</a>
+<p><sub>Menos tempo procurando. Mais tempo fazendo.</sub></p>
+
+<br />
+
+<a href="https://github.com/YagoPaulino">Yago Paulino · GitHub</a>
+
 </div>
